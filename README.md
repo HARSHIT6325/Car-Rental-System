@@ -1,4 +1,7 @@
-Car rental services allow customers to use a vehicle for a fixed number of days by paying a daily charge, without having to buy the vehicle. A rental counter has to keep track of which cars are available, calculate the rent for the requested period, confirm the booking and mark the car as available again when it is returned. When these tasks are done manually, mistakes such as booking the same car twice or calculating the wrong amount can easily occur.
+Car rental services allow customers to use a vehicle for a fixed number of days by paying a daily charge, without having to buy the vehicle. 
+A rental counter has to keep track of which cars are available, calculate the rent for the requested period, 
+confirm the booking and mark the car as available again when it is returned. When these tasks are done manually, 
+mistakes such as booking the same car twice or calculating the wrong amount can easily occur.
 
 Tools and Technologies Used
 The project is implemented in Python using only the standard features of the language. No external library is needed.
